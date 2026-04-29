@@ -12,7 +12,7 @@ Check threat efficacy, detections, posture, risky allows, and trending attacks.
 EmailEvents | summarize count() by DeliveryAction, ThreatTypes
 ```
 
-## Phish/Malware Uncaught
+## Uncaught Phish/Malware
 Identify emails not remediated by ZAP.
 ```
 EmailEvents | where DeliveryLocation == 'Inbox' and ThreatTypes != 'None'
