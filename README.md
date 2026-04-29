@@ -7,7 +7,7 @@ This guide provides a daily operational checklist for Microsoft Defender for Off
   - Microsoft Secure Score → Recommended actions
   - Filter → Product → Defender for Office
   - Filter → Status → Planned & To address
-✅ Daily Check
+- ✅ Daily Check: 
 - Review newly identified recommended actions
 - Track any changes in posture or score impact
 
@@ -19,39 +19,27 @@ This guide provides a daily operational checklist for Microsoft Defender for Off
 📚 Reference:
 https://learn.microsoft.com/en-us/defender-xdr/microsoft-secure-score
 
-📬 MDO Overview
-🔗 https://security.microsoft.com/emailandcollaborationoverviewreport
+## MDO Overview 📬
+🔗 [Go directly](https://security.microsoft.com/emailandcollaborationoverviewreport)
 This dashboard provides a high-level snapshot of email security health, threats, and protection effectiveness.
 
 🛡️ Phish / Malware Efficacy
-
-
-Pre-delivery
-→ Shows how effectively threats are blocked before reaching users
-
-
-Post-delivery (ZAP)
-→ Confirms ability to remediate threats after delivery
-
-
-Uncaught
-→ Highlights gaps where threats remain in mailboxes
-
-
+- Pre-delivery
+  - Shows how effectively threats are blocked before reaching users
+- Post-delivery (ZAP)
+  - Confirms ability to remediate threats after delivery
+- Uncaught
+  - Highlights gaps where threats remain in mailboxes
 
 📈 Threat Detections
-
-Displays total detected threats across protection technologies
-→ Helps understand threat volume and trends
-
+- Displays total detected threats across protection technologies
+  - Helps understand threat volume and trends
 
 ⚙️ Posture Recommendations
+- Shows % of users protected by Safe Links & Safe Attachments
+  - Ensures consistent protection across all users and identifies gaps
 
-Shows % of users protected by Safe Links & Safe Attachments
-→ Ensures consistent protection across all users and identifies gaps
-
-
-🚫 Risky Allows
+## Risky Allows 🚫
 Messages Allowed
 
 Emails bypassing filters due to allow entries
