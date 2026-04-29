@@ -1,6 +1,10 @@
-# KQL Queries
+# KQL Queries in Advanced Hunting
 
-Under queries > Community Queries > Microsoft 365 Defender > Email and Collaboration Queries
+Advanced Hunting in the Microsoft Defender portal includes a set of Community Queries, which provide ready-to-use KQL queries for common investigation and monitoring scenarios.
+
+Below are the navigation steps to locate these queries, along with the key query categories recommended for supporting your daily Microsoft Defender for Office 365 health checks.
+
+Navigate at: Queries > Community Queries > Microsoft 365 Defender > Email and Collaboration Queries
 
 #### General
 
