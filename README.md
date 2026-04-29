@@ -2,7 +2,7 @@
 This guide provides a daily operational checklist for Microsoft Defender for Office 365 (MDO), helping security teams maintain strong posture, detect threats early, and continuously reduce risk.
 
 ## Secure Score 📊
-- 🔗 https://security.microsoft.com/exposure-secure-scores
+- 🔗 [Go directly](https://security.microsoft.com/exposure-secure-scores) 
 - 📍 Navigation
   - Microsoft Secure Score → Recommended actions
   - Filter → Product → Defender for Office
@@ -13,9 +13,8 @@ This guide provides a daily operational checklist for Microsoft Defender for Off
 
 📜 History Review
 - Filter → Product → Defender for Office
-
-Track posture improvements over time
-Validate progress against security goals
+  - Track posture improvements over time
+  - Validate progress against security goals
 
 📚 Reference:
 https://learn.microsoft.com/en-us/defender-xdr/microsoft-secure-score
