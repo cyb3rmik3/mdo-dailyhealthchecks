@@ -1,5 +1,5 @@
 # Defender for Office 365 – Daily Health Checks 🛡️
-This guide provides a daily operational checklist for Microsoft Defender for Office 365 (MDO), helping security teams maintain strong posture, detect threats early, and continuously reduce risk.
+This repository has been build to provide  provides a daily operational checklist for Microsoft Defender for Office 365 (MDO), helping security teams maintain strong posture, detect threats early, and continuously reduce risk.
 
 ## Secure Score 📊
 - 🔗 [Go directly](https://security.microsoft.com/exposure-secure-scores) 
