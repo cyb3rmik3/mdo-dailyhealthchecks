@@ -1,4 +1,4 @@
-# mdo-dailyhealthchecks
+# MDO Daily Health Checks
 
 
 ## Secure Score
