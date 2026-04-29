@@ -65,6 +65,14 @@ Review Threat Tracker daily to stay informed about emerging campaigns and assess
 
 Important feature to operationalize: **Saved & tracked queries**. This enables consistent monitoring of known threat patterns and recurring investigations, ensuring faster detection and response with minimal manual effort.
 
-Reference and further reading: 
+Reference and further reading: https://learn.microsoft.com/en-us/defender-office-365/threat-explorer-real-time-detections-about and https://learn.microsoft.com/en-us/defender-office-365/threat-trackers
 
-## Explorer & Threat tracker 
+## Configuration Analyzer
+
+https://security.microsoft.com/configurationAnalyzer
+
+In the Microsoft Defender portal at https://security.microsoft.com, go to Email & collaboration > Policies & rules > Threat policies > Configuration analyzer in the Templated policies section.
+
+Configuration analyzer in the Microsoft Defender portal provides a central location to find and fix threat policies where the settings are less secure than the Standard protection and Strict protection profile settings in preset security policies.
+
+Reference and further reading: https://learn.microsoft.com/en-us/defender-office-365/configuration-analyzer-for-security-policies
