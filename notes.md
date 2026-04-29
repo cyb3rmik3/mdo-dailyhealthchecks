@@ -10,8 +10,7 @@ Under queries > Community Queries > Microsoft 365 Defender > Email and Collabora
   - Messages containing malicious links or attachments
   - User interaction with phishing (clicks, opens)
 
-👉 In short:
-“Baseline queries to understand overall email threat activity and user exposure.”
+👉 In short: “*Baseline queries to understand overall email threat activity and user exposure.*”
 
 #### Mailflow
 
@@ -21,8 +20,7 @@ Under queries > Community Queries > Microsoft 365 Defender > Email and Collabora
   - Message trace-like visibility (sender → recipient flow)
   - Filtering decisions and policy actions applied
 
-👉 In short:
-“Queries to trace email delivery paths and understand how messages were handled.”
+👉 In short: “*Queries to trace email delivery paths and understand how messages were handled.*”
 
 #### Overrides
 
@@ -32,8 +30,7 @@ Under queries > Community Queries > Microsoft 365 Defender > Email and Collabora
   - Messages impacted by transport (mail flow) rules
   - Safe Links/Safe Attachments overrides or exclusions
 
-👉 In short:
-“Queries that expose security exceptions and potential protection gaps.”
+👉 In short: “*Queries that expose security exceptions and potential protection gaps.*”
 
 #### Top Attacks
 
@@ -43,5 +40,4 @@ Under queries > Community Queries > Microsoft 365 Defender > Email and Collabora
   - Most targeted users/domains
   - Common attack techniques (credential harvesting, malware delivery)
 
-👉 In short:
-“Queries that surface the most common attacks targeting your organization.”
+👉 In short: “*Queries that surface the most common attacks targeting your organization.*”
