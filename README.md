@@ -11,12 +11,14 @@ Blade: Microsoft Secure Score
 > Filter > Status > Planned & To address
 
 Ask yourself:
-- Do I have any new recommended actions to look after?
+Key take away: Do I have any new recommended actions that will reduce my posture?
 
 > History
 > Filter > Product > Defender for Office > Apply
 
 ## MDO Overview
+
+https://security.microsoft.com/emailandcollaborationoverviewreport
 
 ### Phish / Malware Efficacy card
 - Pre-delivery: Items detected before they reach the recipient's mailbox.
