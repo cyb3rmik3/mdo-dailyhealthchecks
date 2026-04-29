@@ -4,9 +4,9 @@ This guide provides a daily operational checklist for Microsoft Defender for Off
 ## Secure Score 📊
 - 🔗 https://security.microsoft.com/exposure-secure-scores
 - 📍 Navigation
-- Microsoft Secure Score → Recommended actions
-- Filter → Product → Defender for Office
-- Filter → Status → Planned & To address
+  - Microsoft Secure Score → Recommended actions
+  - Filter → Product → Defender for Office
+  - Filter → Status → Planned & To address
 ✅ Daily Check
 - Review newly identified recommended actions
 - Track any changes in posture or score impact
