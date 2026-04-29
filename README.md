@@ -1,78 +1,155 @@
-# MDO Daily Health Checks
+🛡️ Defender for Office 365 – Daily Health Checks
+This guide provides a daily operational checklist for Microsoft Defender for Office 365 (MDO), helping security teams maintain strong posture, detect threats early, and continuously reduce risk.
+
+📊 Secure Score
+🔗 https://security.microsoft.com/exposure-secure-scores
+📍 Navigation
+Microsoft Secure Score
+→ Recommended actions
+→ Filter → Product → Defender for Office
+→ Filter → Status → Planned & To address
+✅ Daily Check
+
+Review newly identified recommended actions
+Track any changes in posture or score impact
+
+💡 Key Question:
+
+Do I have any new actions that could improve my security posture?
+
+📜 History Review
+→ Filter → Product → Defender for Office
+
+Track posture improvements over time
+Validate progress against security goals
+
+📚 Reference:
+https://learn.microsoft.com/en-us/defender-xdr/microsoft-secure-score
+
+📬 MDO Overview
+🔗 https://security.microsoft.com/emailandcollaborationoverviewreport
+This dashboard provides a high-level snapshot of email security health, threats, and protection effectiveness.
+
+🛡️ Phish / Malware Efficacy
 
 
-## Secure Score
+Pre-delivery
+→ Shows how effectively threats are blocked before reaching users
 
-https://security.microsoft.com/exposure-secure-scores
 
-Blade: Microsoft Secure Score
-> Recommended actions
-> Filter > Product > Defender for Office > Apply
-> Filter > Status > Planned & To address
+Post-delivery (ZAP)
+→ Confirms ability to remediate threats after delivery
 
-Ask yourself:
-Key take away: Do I have any new recommended actions that will reduce my posture?
 
-> History
-> Filter > Product > Defender for Office > Apply
+Uncaught
+→ Highlights gaps where threats remain in mailboxes
 
-Reference and further reading: https://learn.microsoft.com/en-us/defender-xdr/microsoft-secure-score
 
-## MDO Overview
 
-https://security.microsoft.com/emailandcollaborationoverviewreport
+📈 Threat Detections
 
-### Phish / Malware Efficacy card
-- Pre-delivery: Items detected before they reach the recipient's mailbox.
-→ Shows how effectively threats are blocked before impact, reducing user exposure and risk.
-- Post-delivery: Items removed after the item was delivered to the recipient's mailbox via zero-hour auto purge (ZAP).
-→ Confirms your ability to remediate threats after delivery, minimizing dwell time.
-- Uncaught: Delivered items that ZAP identified but failed to remove.
-→ Highlights detection or response gaps where threats remain in user mailboxes.
+Displays total detected threats across protection technologies
+→ Helps understand threat volume and trends
 
-### Threat detections card
-The graph on the Threat detections card shows the number of messages detected by the MDO protection technologies.
 
-### Posture recommendations
-The graph on the Policy recommendations card shows the number of users directly protected by Safe Links and Safe Attachments policies as a percentage of the total number of users (the value 100% means everyone is protected).
-→ Ensures all users are consistently protected by key controls, reducing exposure due to misconfigurations.
+⚙️ Posture Recommendations
 
-### Risky allows section
+Shows % of users protected by Safe Links & Safe Attachments
+→ Ensures consistent protection across all users and identifies gaps
 
-#### Messages allowed card
-The Messages allowed card shows the count of messages allowed by user or organization allow entries that bypass protection.
-→ Identifies emails bypassing security controls due to allow entries, exposing the organization to risk.
 
-#### Tenant allow types card
-The Tenant allow types card shows a table with the types of allow entries in the Tenant Allow/Block List that let bad mail get delivered to user mailboxes.
-→ Reveals which allow mechanisms introduce risk, helping you minimize unsafe exceptions.
+🚫 Risky Allows
+Messages Allowed
 
-#### Exchange transport rules
-The Exchange transport rules card shows the mail flow rules (also known as transport rules) that allowed messages that would otherwise be blocked.
-→ Highlights mail flow rules that may unintentionally weaken protection and allow malicious emails through.
+Emails bypassing filters due to allow entries
+→ Identifies exposure caused by exceptions
 
-### Top trending attacks card
-The graph on the Top trending attacks card shows the most encountered phishing attack types by volume for the review period selected.
-→ Helps understand the most common phishing techniques targeting your organization so you can proactively defend against them.
+Tenant Allow Types
 
-Reference and further reading: https://learn.microsoft.com/en-us/defender-office-365/reports-mdo-email-collaboration-dashboard
+Types of allow entries enabling delivery
+→ Helps identify risky allowance patterns
 
-## Explorer & Threat tracker
+Exchange Transport Rules
 
-Use Explorer daily to investigate active threats, pivot across users/messages, and take immediate remediation actions (e.g., purge or submit). Expect real-time visibility into attacks and quickly contain incidents before they spread.
+Mail flow rules that bypass protection
+→ Highlights misconfigurations weakening defense
 
-Review Threat Tracker daily to stay informed about emerging campaigns and assess if they are relevant to your environment. Expect early warning insights and actionable guidance to proactively adjust defenses and reduce risk exposure.
 
-Important feature to operationalize: **Saved & tracked queries**. This enables consistent monitoring of known threat patterns and recurring investigations, ensuring faster detection and response with minimal manual effort.
+🎯 Top Trending Attacks
 
-Reference and further reading: https://learn.microsoft.com/en-us/defender-office-365/threat-explorer-real-time-detections-about and https://learn.microsoft.com/en-us/defender-office-365/threat-trackers
+Most frequent phishing techniques targeting your organization
+→ Enables proactive defense against common attack patterns
 
-## Configuration Analyzer
 
-https://security.microsoft.com/configurationAnalyzer
+📚 Reference:
+https://learn.microsoft.com/en-us/defender-office-365/reports-mdo-email-collaboration-dashboard
 
-In the Microsoft Defender portal at https://security.microsoft.com, go to Email & collaboration > Policies & rules > Threat policies > Configuration analyzer in the Templated policies section.
+🔎 Explorer & 🌍 Threat Tracker
+🔎 Explorer (Daily Operations)
 
-Configuration analyzer in the Microsoft Defender portal provides a central location to find and fix threat policies where the settings are less secure than the Standard protection and Strict protection profile settings in preset security policies.
+Investigate active threats
+Pivot across users, senders, and campaigns
+Take immediate remediation actions (purge, submit, etc.)
 
-Reference and further reading: https://learn.microsoft.com/en-us/defender-office-365/configuration-analyzer-for-security-policies
+✅ Expected Outcome:
+Real-time visibility and rapid containment of threats before they spread
+
+🌍 Threat Tracker (Proactive Defense)
+
+Monitor emerging global attack campaigns
+Assess relevance to your environment
+Adjust defenses accordingly
+
+✅ Expected Outcome:
+Early warning and proactive protection against new threats
+
+⚡ Operational Tip: Saved & Tracked Queries
+
+Monitor recurring threat patterns automatically
+Standardize investigations
+Reduce manual effort and improve response time
+
+
+📚 References:
+
+https://learn.microsoft.com/en-us/defender-office-365/threat-explorer-real-time-detections-about
+https://learn.microsoft.com/en-us/defender-office-365/threat-trackers
+
+
+⚙️ Configuration Analyzer
+🔗 https://security.microsoft.com/configurationAnalyzer
+📍 Navigation
+Microsoft Defender Portal
+→ Email & Collaboration
+→ Policies & Rules
+→ Threat Policies
+→ Configuration Analyzer
+
+✅ Purpose
+
+Central location to identify policy misconfigurations
+Compare current settings against:
+
+Standard protection baseline
+Strict protection baseline
+
+
+
+
+🎯 Daily Value
+
+Detect weaker-than-recommended configurations
+Identify opportunities to strengthen policies
+Align with Microsoft best practices
+
+
+📚 Reference:
+https://learn.microsoft.com/en-us/defender-office-365/configuration-analyzer-for-security-policies
+
+✅ Summary – Daily Operational Mindset
+By performing these checks daily, you will:
+
+🔐 Maintain a strong and evolving security posture
+🚨 Detect and respond to threats faster
+⚠️ Identify and eliminate hidden risks and misconfigurations
+🌍 Stay ahead of emerging attack patterns
