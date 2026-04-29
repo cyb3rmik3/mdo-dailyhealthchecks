@@ -6,7 +6,7 @@ Under queires > Community Queries > Microsoft 365 Defender > Email and Collabora
 
 - Provide broad visibility across email threats, detections, and user activity
 - Includes queries such as:
--- All email events with threat verdicts
+ - All email events with threat verdicts
  - Messages containing malicious links or attachments
  - User interaction with phishing (clicks, opens)
 
