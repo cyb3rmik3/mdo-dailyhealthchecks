@@ -16,6 +16,8 @@ Key take away: Do I have any new recommended actions that will reduce my posture
 > History
 > Filter > Product > Defender for Office > Apply
 
+Reference and further reading: https://learn.microsoft.com/en-us/defender-xdr/microsoft-secure-score
+
 ## MDO Overview
 
 https://security.microsoft.com/emailandcollaborationoverviewreport
@@ -53,3 +55,16 @@ The Exchange transport rules card shows the mail flow rules (also known as trans
 The graph on the Top trending attacks card shows the most encountered phishing attack types by volume for the review period selected.
 → Helps understand the most common phishing techniques targeting your organization so you can proactively defend against them.
 
+Reference and further reading: https://learn.microsoft.com/en-us/defender-office-365/reports-mdo-email-collaboration-dashboard
+
+## Explorer & Threat tracker
+
+Use Explorer daily to investigate active threats, pivot across users/messages, and take immediate remediation actions (e.g., purge or submit). Expect real-time visibility into attacks and quickly contain incidents before they spread.
+
+Review Threat Tracker daily to stay informed about emerging campaigns and assess if they are relevant to your environment. Expect early warning insights and actionable guidance to proactively adjust defenses and reduce risk exposure.
+
+Important feature to operationalize: **Saved & tracked queries**. This enables consistent monitoring of known threat patterns and recurring investigations, ensuring faster detection and response with minimal manual effort.
+
+Reference and further reading: 
+
+## Explorer & Threat tracker 
