@@ -1,6 +1,6 @@
 # Defender for Office 365 – Daily Health Check Breakdown 🛡️
 
-Here you may find the daily operational checklist for Microsoft Defender for Office 365 (MDO), which will help you maintain strong posture, detect threats early, and continuously reduce risk.
+Here you may find the daily operational checklist breakdown for Microsoft Defender for Office 365 (MDO), which will help you maintain strong posture, detect threats early, and continuously reduce risk.
 
 ---
 
