@@ -1,6 +1,6 @@
-# Defender for Office 365 – Daily Health Checks 🛡️
+# Defender for Office 365 – Daily Health Check Breakdown 🛡️
 
-This repository provides a daily operational checklist for Microsoft Defender for Office 365 (MDO), helping security teams maintain strong posture, detect threats early, and continuously reduce risk.
+Here you may find the daily operational checklist for Microsoft Defender for Office 365 (MDO), which will help you maintain strong posture, detect threats early, and continuously reduce risk.
 
 ---
 
@@ -8,7 +8,6 @@ This repository provides a daily operational checklist for Microsoft Defender fo
 
 - [Secure Score](#secure-score-)
 - [MDO Overview](#mdo-overview-)
-- [Risky Allows](#risky-allows-)
 - [Explorer & Threat Tracker](#explorer--threat-tracker)
 - [Configuration Analyzer](#configuration-analyzer)
 - [Summary – Daily Operational Mindset](#summary--daily-operational-mindset)
@@ -66,9 +65,7 @@ This dashboard provides a high-level snapshot of email security health, threats,
 
 📚 **Reference:** [MDO Email & Collaboration Dashboard](https://learn.microsoft.com/en-us/defender-office-365/reports-mdo-email-collaboration-dashboard)
 
----
-
-## Risky Allows 🚫
+**Risky Allows 🚫**
 
 | Area | What It Shows |
 |---|---|
