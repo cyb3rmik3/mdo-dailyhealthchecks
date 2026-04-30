@@ -4,7 +4,7 @@
 ## 📌 Overview
 This repository provides guidance and practical steps for implementing a **Defender for Office 365 (MDO) operational motion**, with a strong focus on **daily health checks**.
 
-It is designed to help customers:
+It is designed to help:
 - Maintain optimal security posture
 - Detect and respond to threats faster
 - Ensure continuous validation of protections
@@ -12,7 +12,7 @@ It is designed to help customers:
 ---
 
 ## 🎯 Purpose
-This README serves as a **companion guide** for customers adopting Microsoft Defender for Office 365, outlining:
+This repository serves as a **companion guide** for Microsoft Defender for Office 365 adoption, outlining:
 - A repeatable **daily operational routine**
 - Key areas to monitor
 - Actions that drive **proactive security management**
@@ -62,6 +62,7 @@ Daily health checks are critical to:
 
 | Capability            | Purpose |
 |----------------------|--------|
+| **Secure Score**    | 
 | **Explorer**         | Real-time analysis of email threats |
 | **Threat Tracker**   | Visibility into global threat trends |
 | **Advanced Hunting** | Deep investigation using KQL queries |
@@ -70,8 +71,8 @@ Daily health checks are critical to:
 ---
 
 ## 📈 Expected Outcomes
-By following this daily motion, customers will:
-- Strengthen their **security posture**
+By following this daily motion, you will:
+- Strengthen your **security posture**
 - Reduce **attack surface and exposure**
 - Improve **operational efficiency**
 - Enable **proactive threat detection**
@@ -90,7 +91,7 @@ By following this daily motion, customers will:
 ## 📚 Additional Notes
 This is a **living guide** and should evolve alongside:
 - New Defender for Office 365 capabilities
-- Customer-specific requirements
+- Your environment-specific requirements
 - Emerging threat landscape
 
 ---
