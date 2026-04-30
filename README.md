@@ -61,7 +61,7 @@ This is a **living guide** and should evolve alongside:
 
 ---
 
-## ✅ Next Steps
+## ⚠️ Next Steps
 
 ---
 
