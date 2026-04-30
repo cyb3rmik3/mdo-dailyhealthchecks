@@ -29,43 +29,13 @@ Daily health checks are critical to:
 
 ---
 
-## 🧭 Recommended Daily Workflow
-
-### 1. 🔍 Posture & Recommendations
-- Review **security recommendations**
-- Track improvements in **Secure Score**
-- Validate baseline configurations
-
-### 2. ⚠️ Threat & Risk Monitoring
-- Investigate **risky users and entities**
-- Review **alerts and incidents**
-- Validate remediation actions
-
-### 3. 📧 Email & Collaboration Insights
-- Use **Explorer** to analyze email activity
-- Investigate suspicious campaigns or messages
-- Track delivery and impact of threats
-
-### 4. 🌍 Threat Intelligence
-- Review **Threat Tracker**
-- Identify emerging campaigns or trends
-- Assess relevance to your organization
-
-### 5. 🔎 Advanced Hunting (Optional but Recommended)
-- Run **saved or custom KQL queries**
-- Validate detection coverage
-- Investigate suspicious patterns or behaviors
-
----
-
 ## 🛠️ Key Tools & Capabilities
 
 | Capability            | Purpose |
 |----------------------|--------|
-| **Secure Score**    | 
-| **Explorer**         | Real-time analysis of email threats |
-| **Threat Tracker**   | Visibility into global threat trends |
-| **Advanced Hunting** | Deep investigation using KQL queries |
+| **Secure Score**    | Actionable posture improvement guidance |
+| **MDO Overview**     | Real-time analysis of email threats visibility of email 
+| **Configuration Analyzer | |
 | **Recommendations**  | Actionable posture improvement guidance |
 
 ---
@@ -100,6 +70,10 @@ This is a **living guide** and should evolve alongside:
 - Align this checklist with your **SOC processes**
 - Identify opportunities for **automation**
 - Track adoption and usage metrics over time
+
+---
+
+## ✅ Next Steps
 
 ---
 
