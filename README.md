@@ -13,15 +13,7 @@ It is designed to help:
 
 | ## 🎯 Purpose | ## 🚀 Why This Matters |
 | ------------- | ------------- |
-| This repository serves as a **companion guide** for  | Daily health checks are critical to: |
-| Microsoft Defender for Office 365 adoption, outlining: | - ✅ Identify misconfigurations early |
-| - A repeatable **daily operational routine** | - ✅ Detect active threats or anomalies |
-|  - Key areas to monitor | - ✅ Validate protection layers are working effectively  
-| - Actions that drive **proactive security management** | - ✅ Improve Secure Score and overall posture   |
-| | - ✅ Reduce response time during incidents  |
-
-
-
+| This repository serves as a **companion guide** for<br>**Microsoft Defender for Office 365** adoption, outlining: | Daily health checks are critical to:<br>- ✅ Identify misconfigurations early<br>- ✅ Detect active threats or anomalies<br>- ✅ Validate protection layers are working effectively<br>- ✅ Improve Secure Score and overall posture<br>- ✅ Reduce response time during incidents |
 
 ---
 
