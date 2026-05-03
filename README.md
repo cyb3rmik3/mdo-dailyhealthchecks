@@ -23,25 +23,13 @@ It is designed to help:
 |----------------------|--------|
 | **Secure Score**    | Actionable posture improvement guidance |
 | **MDO Overview**     | Real-time analysis of email threats visibility of email 
-| **Configuration Analyzer | |
+| **Configuration Analyzer** | |
 | **Recommendations**  | Actionable posture improvement guidance |
 
 ---
-
-## 📈 Expected Outcomes
-By following this daily motion, you will:
-- Strengthen your **security posture**
-- Reduce **attack surface and exposure**
-- Improve **operational efficiency**
-- Enable **proactive threat detection**
-- Enhance **security maturity over time**
-
----
-
-## ✅ Next Steps
-- Align this checklist with your **SOC processes**
-- Identify opportunities for **automation**
-- Track adoption and usage metrics over time
+| 📈 Expected Outcomes | ✅ Next Steps |
+| ------------- | ------------- |
+| By following this daily motion, you will:<br>- Strengthen your **security posture**<br>- Reduce **attack surface and exposure**<br>- Improve **operational efficiency**<br>- Enable **proactive threat detection**<br>- Enhance **security maturity over time** | - Align this checklist with your **SOC processes**<br>- Identify opportunities for **automation**<br>- Track adoption and usage metrics over time |
 
 ---
 
