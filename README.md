@@ -23,23 +23,23 @@ It is designed to help:
 |----------------------|--------|
 | **Secure Score**    | Actionable posture improvement guidance |
 | **MDO Overview**     | Real-time analysis of email threats visibility of email 
-| **Configuration Analyzer** |  |
+| **Configuration Analyzer** | Validates your current policies against recommended settings and highlights misconfigurations or gaps |
 | **Recommendations**  | Actionable posture improvement guidance |
 
 ---
 
 ## How to use this repository
 
-- **Daily Checklist Breakdown** rovides detailed, step-by-step guidance on where to navigate and how to use the key tools. Ideal for anyone who wants structured instructions to follow each task.
-- **Daily Checklist** is a concise overview of your routine health checks. This can be printed on a single page and includes lightweight KQL queries for quick reference and execution.
-- **Advanced Hunting Queries** - is a curated collection of KQL queries (also available under Community Queries in Advanced Hunting). These queries help you:
- - Understand how messages are processed within your organization
- - Identify gaps and exceptions in your security posture
- - Detect patterns and trends in common attack vectors targeting your environment
+- [**Daily Checklist Breakdown**](https://github.com/cyb3rmik3/mdo-dailyhealthchecks/blob/main/DailyChecksBreakdown.md) rovides detailed, step-by-step guidance on where to navigate and how to use the key tools. Ideal for anyone who wants structured instructions to follow each task.
+- [**Daily Checklist**](https://github.com/cyb3rmik3/mdo-dailyhealthchecks/blob/main/DailyChecklist.md) is a concise overview of your routine health checks. This can be printed on a single page and includes lightweight KQL queries for quick reference and execution.
+- [**Advanced Hunting Queries**](https://github.com/cyb3rmik3/mdo-dailyhealthchecks/blob/main/AdvancedHuntingQueries.md) - is a curated collection of KQL queries (also available under Community Queries in Advanced Hunting). These queries help you:
+  - Understand how messages are processed within your organization
+  - Identify gaps and exceptions in your security posture
+  - Detect patterns and trends in common attack vectors targeting your environment
 
 ---
 
-✅ Next Steps 
+## ✅ Next Steps 
  - Align this checklist with your **SOC processes**
  - Identify opportunities for **automation**
  - Track adoption and usage metrics over time
