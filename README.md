@@ -23,14 +23,19 @@ It is designed to help:
 |----------------------|--------|
 | **Secure Score**    | Actionable posture improvement guidance |
 | **MDO Overview**     | Real-time analysis of email threats visibility of email 
-| **Configuration Analyzer** | |
+| **Configuration Analyzer** |  |
 | **Recommendations**  | Actionable posture improvement guidance |
 
-## How you should use this repository?
+---
 
-Daily Checklist Breakdown
-Daily Checklist
-Advanced Hunting Queries
+## How to use this repository
+
+- **Daily Checklist Breakdown** rovides detailed, step-by-step guidance on where to navigate and how to use the key tools. Ideal for anyone who wants structured instructions to follow each task.
+- **Daily Checklist** is a concise overview of your routine health checks. This can be printed on a single page and includes lightweight KQL queries for quick reference and execution.
+- **Advanced Hunting Queries** - is a curated collection of KQL queries (also available under Community Queries in Advanced Hunting). These queries help you:
+ - Understand how messages are processed within your organization
+ - Identify gaps and exceptions in your security posture
+ - Detect patterns and trends in common attack vectors targeting your environment
 
 ---
 
@@ -43,7 +48,7 @@ Advanced Hunting Queries
 
 ## ⚠️ Caution
 
-
+While Daily Health Checks help maintain baseline hygiene and detect issues early, the [Security Operations Guide](https://learn.microsoft.com/en-us/defender-office-365/mdo-sec-ops-guide) for Defender for Office 365 enables security teams to investigate, respond, and continuously improve their defense strategy.
 
 ---
 
