@@ -38,22 +38,6 @@ By following this daily motion, you will:
 
 ---
 
-## 🤝 How to Use This Repository
-- Use this guide as a **daily checklist**
-- Integrate with your **SOC workflows**
-- Automate steps where possible (e.g., KQL queries, alerts)
-- Continuously refine based on your environment
-
----
-
-## 📚 Additional Notes
-This is a **living guide** and should evolve alongside:
-- New Defender for Office 365 capabilities
-- Your environment-specific requirements
-- Emerging threat landscape
-
----
-
 ## ✅ Next Steps
 - Align this checklist with your **SOC processes**
 - Identify opportunities for **automation**
