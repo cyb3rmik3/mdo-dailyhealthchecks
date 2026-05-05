@@ -25,7 +25,7 @@ This repository provides guidance and practical steps for implementing a **Defen
 
 ## How to use this repository
 
-- [**Daily Checklist Breakdown**](https://github.com/cyb3rmik3/mdo-dailyhealthchecks/blob/main/DailyChecksBreakdown.md) rovides detailed, step-by-step guidance on where to navigate and how to use the key tools. Ideal for anyone who wants structured instructions to follow each task.
+- [**Daily Checklist Breakdown**](https://github.com/cyb3rmik3/mdo-dailyhealthchecks/blob/main/DailyChecksBreakdown.md) provides detailed, step-by-step guidance on where to navigate and how to use the key tools. Ideal for anyone who wants structured instructions to follow each task.
 - [**Daily Checklist**](https://github.com/cyb3rmik3/mdo-dailyhealthchecks/blob/main/DailyChecklist.md) is a concise overview of your routine health checks. This can be printed on a single page and includes lightweight KQL queries for quick reference and execution.
 - [**Advanced Hunting Queries**](https://github.com/cyb3rmik3/mdo-dailyhealthchecks/blob/main/AdvancedHuntingQueries.md) - is a curated collection of KQL queries (also available under Community Queries in Advanced Hunting). These queries help you:
   - Understand how messages are processed within your organization
