@@ -4,11 +4,6 @@
 ## 📌 Overview
 This repository provides guidance and practical steps for implementing a **Defender for Office 365 (MDO) operational motion**, with a strong focus on **daily health checks**.
 
-It is designed to help:
-- Maintain optimal security posture
-- Detect and respond to threats faster
-- Ensure continuous validation of protections
-
 ---
 
 | 🎯 Purpose | 🚀 Why This Matters |
