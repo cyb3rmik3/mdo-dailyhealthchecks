@@ -1,5 +1,5 @@
 
-# 🛡️ Defender for Office 365 – Daily Health Check Guide
+# 🛡️ Defender for Office 365 – Daily Health Checks Guide
 
 ## 📌 Overview
 This repository provides guidance and practical steps for implementing a **Defender for Office 365 (MDO) operational motion**, with a strong focus on **daily health checks**.
